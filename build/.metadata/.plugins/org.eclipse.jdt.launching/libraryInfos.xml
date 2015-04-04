@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryInfos>
+<libraryInfo home="/home/java/jdk1.5.0_02" version="1.5.0_02">
+<bootpath>
+<entry path="/home/java/jdk1.5.0_02/jre/lib/rt.jar"/>
+<entry path="/home/java/jdk1.5.0_02/jre/lib/i18n.jar"/>
+<entry path="/home/java/jdk1.5.0_02/jre/lib/sunrsasign.jar"/>
+<entry path="/home/java/jdk1.5.0_02/jre/lib/jsse.jar"/>
+<entry path="/home/java/jdk1.5.0_02/jre/lib/jce.jar"/>
+<entry path="/home/java/jdk1.5.0_02/jre/lib/charsets.jar"/>
+<entry path="/home/java/jdk1.5.0_02/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/java/jdk1.5.0_02/jre/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/java/jdk1.5.0_02/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

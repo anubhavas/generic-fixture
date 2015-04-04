@@ -1,0 +1,21 @@
+* What is Generic Fixture?
+
+A Generic Fixture for FitNesse where user just drops a class in FitNesse's class path, write the test tables in wiki and be ready to test without the need to write a single line of Java code.
+
+* Install Requirements
+
+You must have FitNesse framework installed on your computer and FitNesse server must be running on the computer where Generic Fixture is being installed.
+
+* To download Generic Fixture
+
+Download the jar file genericfixture.jar containing full source code and compiled classes from Generic Fixture Sourceforge Site. Included classes have been generated using Sun's JDK 1.5 Java compiler. Should you need to build Generic Fixture with any other JVM then make sure to put fitnesse.jar and fitlibrary.jar (provided in all the Fitnesse releases) in your CLASSPATH.
+
+* To install Generic Fixture
+
+Save genericfixture.jar somewhere on your computer where FitNesse server is running. Then simply add genericfixture.jar in your classpath on FitNesse Wiki. eg:
+
+!path /path/to/download/dir/genericfixture.jar
+
+* Examples and Tutorial
+
+Please visit http://genericfixture.wiki.sourceforge.net/
